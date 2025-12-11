@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>для любвы</title>
+</head>
+<body>
+    <h1>Добро пожаловать на мой сайт!</h1>
+    <p>Это информационный ресурс, который я создал по запросу эксперимента</p>
+    
+    <!-- Новый список. -->
+    <h3>Мой обычный интернет-сервис</h3>
+    <ul>
+        <li>Google поиск</li>
+        <li> Gmail почт</li>
+        <li>Google Drive Облачное запоминающее устройство</li>
+    </ul>
+    
+    <!-- Новые формы -->
+    <h3>Инструкция для интернет-протоколов</h3>
+    <table border="1">
+        <tr>
+            <<th>соглашен</</th>
+            <<th>использован</</th>
+        </tr>
+        <tr>
+            <td>HTTPS</td>
+            <td>Веб-страница безопасной передачи</td>
+        </tr>
+        <tr>
+            <td>FTP</td>
+            <td>Файл передачи</td>
+        </tr>
+    </table>
+    
+    
+    <h3>Мое фото.</h3>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.thepaper.cn%2FnewsDetail_forward_31938563&psig=AOvVaw2sAIkwL0S1qd1MGsQ8tMum&ust=1765558860392000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCvjcGBtpEDFQAAAAAdAAAAABAE" target="-blanl">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fXYlvuxnd7pVxqcjGvpzTcPObXa2BBP07w&s" alt="Моя фотография." width="300">
+    <h3> мое фото</h3>
+<a href="https://m.duitang.com/blog/?id=1563399635" target="-blanl">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpyqstPAx7yhIryCx9USAlHDW1ySBRWzUmtg&s" alt="Моя фотография." width="300">
+    <!-- Добавление связи -->
+    <h3>Ссылка на часто используемый сайт</h3>
+    <a href="https://www.google.com" target="_blank">Google</a>
+    <a href="https://github.com" target="_blank">GitHub（Сайт для бесплатной опеки）</a>
+</body>
+</html>
